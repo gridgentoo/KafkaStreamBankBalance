@@ -4,7 +4,10 @@
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
 
 ## Machine Learning + Kafka Streams Examples 
+Этот проект содержит примеры, демонстрирующие, как развернуть аналитические модели для критически важной масштабируемой продукции, использующей Apache Kafka и ее API потоков. 
+Примеры включают аналитические модели, созданные с помощью TensorFlow, Keras, H2O, Python, DeepLearning4J и других технологий.
 ![Image alt](https://camo.githubusercontent.com/73a6ca2de6340303e642cf459f205f6ebdf7ca09/687474703a2f2f7777772e6b61692d776165686e65722e64652f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31302f4170616368655f4b61666b615f45636f73797374656d5f4b61666b615f53747265616d735f4d616368696e655f4c6561726e696e672e706e67)
+
 
 ## Kafka Connect + Kafka Streams
 ![Image alt](https://www.confluent.io/wp-content/uploads/2016/08/kafka_connect_-_5.jpeg)
