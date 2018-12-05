@@ -36,3 +36,6 @@ https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/
 https://clickhouse.yandex/benchmark.html
 
 ![alt text](http://www.anchormodeling.com/wp-content/uploads/2010/08/AMatDSV.jpg)
+
+## [AnchorModeling] for Input–output model [Межотраслевые Балансы]
+https://github.com/gridgentoo/AnchorModeling
