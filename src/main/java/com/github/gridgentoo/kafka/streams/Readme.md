@@ -4,6 +4,7 @@ kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partit
 # смотрим список Топиков
 kafka-topics --zookeeper 127.0.0.1:2181 --list 
 
+
 # Создаем output log compacted topic
 kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic bank-balance-exactly-once --config cleanup.policy=compact
 
