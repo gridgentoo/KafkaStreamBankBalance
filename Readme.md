@@ -3,6 +3,10 @@
 ##  Архитектура использования Kafka Streams в Uber
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
 
+## Uber : : Как масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
+https://github.com/gridgentoo/uReplicatorUber
+
+
 ## Machine Learning + Kafka Streams Examples 
 Этот проект содержит примеры, демонстрирующие, как развернуть аналитические модели для критически важной масштабируемой продукции, использующей Apache Kafka и ее API потоков. 
 Примеры включают аналитические модели, созданные с помощью TensorFlow, Keras, H2O, Python, DeepLearning4J и других технологий.
