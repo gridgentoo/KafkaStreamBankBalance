@@ -1,4 +1,4 @@
-## пример написания KafkaStreamBankBalance для использования в Банке
+## пример написания KafkaStream BankBalance для использования в Банке
 
         <dependency>
             <groupId>org.apache.kafka</groupId>
