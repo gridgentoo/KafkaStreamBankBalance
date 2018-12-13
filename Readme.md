@@ -10,6 +10,7 @@ import org.apache.kafka.streams.kstream.KStream;
 import org.apache.kafka.streams.kstream.KStreamBuilder;  
 import org.apache.kafka.streams.kstream.KTable;  
 
+
 ##  Архитектура использования Kafka Streams в Uber
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
 
